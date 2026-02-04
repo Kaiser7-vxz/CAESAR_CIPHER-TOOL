@@ -1,5 +1,4 @@
-This Is A Simple CLI Based Caesar Cipher Tool For Learning Basic Cryptography 
-It Encrypts Or Decrypts Text Using Caesar Cipher
+This Is A Simple CLI Based Caesar Cipher Tool For Text Encryption and Decryption
 
 Key Features:
 
