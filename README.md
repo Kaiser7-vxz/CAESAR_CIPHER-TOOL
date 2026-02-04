@@ -10,7 +10,11 @@ Key Features:
 
 Use Case:
 
+```
+git clone https://github.com/Kaiser7-vxz/CAESAR_CIPHER-TOOL.git
+cd CAESAR_CIPHER-TOOL
 python3 caesar-cipher.py
+```
 
 ```
  python3 caesar-cipher.py
